@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe.config
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.pdb
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.Form1.resources
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.Properties.Resources.resources
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.exe
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.pdb
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\bin\Debug\tsconfig1.json
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\FortuneTeller\FortuneTeller\obj\Debug\FortuneT.B8B2EFB9.Up2Date
